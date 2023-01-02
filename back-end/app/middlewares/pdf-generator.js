@@ -15,10 +15,11 @@ User.find()
     })
 
 
-let doc = new PDFDocument({ margin: 30, size: 'A4' });
 
 const pdfViewer = async (req, res, next) => {
     // table
+    let doc = new PDFDocument({ margin: 30, size: 'A4' });
+
     const tableData = data.map((ele, i) => {
         return {index: i, name: ele.name, mobile: ele.mobile, username: ele.username}
     })
