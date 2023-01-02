@@ -10,7 +10,11 @@ Basic User registration & login application with CRUD operations on user data.
 ### `DEMO`
 
 
-https://user-images.githubusercontent.com/105785955/209785011-5eae235c-5014-48d4-be35-8f2589f0a5fa.mp4
+https://user-images.githubusercontent.com/105785955/210215303-1e7e3457-85b8-4775-b15c-f3f749f6e7d9.mp4
+
+
+
+
 
 
 ***
